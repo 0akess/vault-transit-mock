@@ -1,0 +1,7 @@
+cover.out
+*.out
+*.test
+/vault-transit-mock
+.idea/
+.vscode/
+.claude/

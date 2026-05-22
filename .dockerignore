@@ -1,0 +1,11 @@
+.git
+.github
+.claude
+*.md
+cover.out
+Dockerfile
+.dockerignore
+.golangci.yml
+.idea
+.vscode
+*.test
